@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: example-pkg
+Version: 1.0
+Summary: UNKNOWN
+Home-page: https://github.com/WZSwang/test_distribute_package.git
+Author: Anthony Wang
+Author-email: tingyuweilou@163.com
+License: GPL
+Description: # EXAMPLE_PKG
+        这是一个练习包分发的测试包
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
