@@ -18,7 +18,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_type='text/markdown',
     packages=setuptools.find_packages(),
-    url='https://github.com/WZSwang/test_distribute_package.git',
+    url='https://github.com/WZSwang/test_distirbute_package/blob/master/dist/example_pkg-1.0-py3.6.egg',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
