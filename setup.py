@@ -13,7 +13,7 @@ setuptools.setup(
     author='Anthony Wang',
     author_email='tingyuweilou@163.com',
     license='GPL',
-    keywords=('example_pkg', 'Wahaha'),
+    # keywords=('example_pkg', 'Wahaha'),
     desciption='test example_pkg',
     long_description=long_description,
     long_description_type='text/markdown',
